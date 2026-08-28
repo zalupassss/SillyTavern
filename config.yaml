@@ -1,1 +1,4 @@
 whitelistMode: false
+basicAuthMode: true
+basicAuthUser: "admin"
+basicAuthPassword: "password123"

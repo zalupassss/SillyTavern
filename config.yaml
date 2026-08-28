@@ -2,3 +2,4 @@ whitelistMode: false
 basicAuthMode: false
 enableUserAccounts: true
 trustProxy: true
+dataRoot: ./data

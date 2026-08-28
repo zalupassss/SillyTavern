@@ -1,6 +1,4 @@
 whitelistMode: false
-basicAuthMode: true
-basicAuthUser: "admin"
-basicAuthPassword: "password123"
+basicAuthMode: false
+enableUserAccounts: true
 trustProxy: true
-enableUserAccounts: false

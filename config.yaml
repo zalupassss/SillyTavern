@@ -1,5 +1,5 @@
 whitelistMode: false
-basicAuthMode: false
-enableUserAccounts: true
+basicAuthMode: true
+basicAuthUser: "admin"
+basicAuthPassword: "password123"
 trustProxy: true
-dataRoot: ./data
